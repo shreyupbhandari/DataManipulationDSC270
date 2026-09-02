@@ -1,0 +1,25 @@
+Order ID ,  item name,Price , QTY,payment Method  
+1001,drip coffee, $2.00,3,card
+1002,Cinnamon Roll,$3.75,1, cash
+1003,iced latte ,$4.50,2,CARD
+1004, bagel,$2.50,2,card
+1005,drip coffee,$2.00,4,cash
+1006,DRIP COFFEE,$2.00,2,card
+ 1007,bagel,$2.50,1, Cash
+1008,iced latte,$4.50,1,card
+1009,drip coffee, $2.00,6,card
+1010,cinnamon roll,$3.75,2,cash
+1011,Bagel,$2.50,3,card
+1012,drip coffee,$2.00,2,CASH
+1013,iced latte,$4.50,3,card
+1014, drip coffee ,$2.00,5,card
+1015,cinnamon roll,$3.75,1,card
+1016,bagel,$2.50,2, cash
+1017,Drip Coffee,$2.00,4,card
+1018,iced latte,$4.50,1,cash
+1019,drip coffee,$2.00,3,card
+1020,Cinnamon Roll ,$3.75,2,Card
+1021,bagel ,$2.50,1,card
+1022,drip coffee,$2.00,4,cash
+1023,ICED LATTE,$4.50,2,card
+1024,bagel,$2.50,2,card
